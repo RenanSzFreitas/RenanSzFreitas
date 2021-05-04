@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Renan Freitas<br>
-18y web developer and bug hunter
+18y web developer and bug hunter<br>
 
 - Favourites tools:<br>
 HTML<br>
