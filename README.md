@@ -6,9 +6,10 @@ HTML<br>
 CSS<br>
 JS<br>
 JAVA<br>
+React JS<br>
 
 - Currently learning:<br>
-React JS<br>
+Vue <br>
 Node JS<br>
 Python<br>
 
