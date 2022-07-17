@@ -12,4 +12,5 @@ React JS<br>
 Vue <br>
 Node JS<br>
 Python<br>
+Angular<br>
 
