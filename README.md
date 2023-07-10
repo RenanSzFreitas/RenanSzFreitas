@@ -6,7 +6,7 @@ HTML<br>
 CSS<br>
 JS<br>
 JAVA<br>
-React JS<br>
+C#<br>
 Angular<br>
 
 - Currently learning:<br>
