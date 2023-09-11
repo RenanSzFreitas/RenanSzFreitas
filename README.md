@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Renan Freitas<br>
-20y Web developer <br>
+1y Web developer <br>
 
 - Favourites tools:<br>
 HTML<br>
@@ -10,8 +10,7 @@ C#<br>
 Angular<br>
 
 - Currently learning:<br>
-Vue <br>
-Node JS<br>
+React <br>
 Python<br>
 
 
