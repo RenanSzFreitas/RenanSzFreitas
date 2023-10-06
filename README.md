@@ -13,5 +13,5 @@ Angular<br>
 React <br>
 Python<br>
 
-&hide=stars,commits,prs,issues,contribs
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Renan Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
