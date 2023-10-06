@@ -14,4 +14,4 @@ React <br>
 Python<br>
 
 
-![Renan Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=renanfreitas&show_icons=true)
+![Renan Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanSzFreitas&show_icons=true)
