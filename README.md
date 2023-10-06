@@ -12,6 +12,3 @@ Angular<br>
 - Currently learning:<br>
 React <br>
 Python<br>
-
-
-![Renan Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanSzFreitas&show_icons=true)
