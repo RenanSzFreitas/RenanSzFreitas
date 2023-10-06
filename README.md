@@ -1,14 +1,10 @@
-- 👋 Hi, I’m Renan Freitas<br>
-21y Developer <br>
+# Hi! 👋
+**I'm Renan Freitas** - I am 21 years old and currently work as a technical intern at AMBEV. Welcome to my profile, where I strive every day to grow and become a better person.
 
-- Favourites tools:<br>
-HTML<br>
-CSS<br>
-JS<br>
-JAVA<br>
-C#<br>
-Angular<br>
+[![SkillIcons](https://skillicons.dev/icons?i=py,grafana,js,ts,mysql,vscode,atom,git,html,css,docker)](https://skillicons.dev)<br/>
 
-- Currently learning:<br>
-React <br>
-Python<br>
+<details>
+  <summary>Github Stats </summary>
+  
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSzFreitas&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
