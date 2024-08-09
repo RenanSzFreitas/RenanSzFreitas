@@ -1,7 +1,7 @@
 # Hi! 👋
 **I'm Renan Freitas** - I am 21 years old and I currently work as a technical computer programmer intern at AMBEV Brazil. Welcome to my profile! Here I can share my skills with the GitHub community, towards self-improvement in this programming world.
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,grafana,js,ts,cs,mysql,vscode,atom,git,react,tailwind,docker)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=py,grafana,js,ts,cs,dotnet,bootstrap,mysql,vscode,atom,git,kali,react,nextjs,tailwind,docker)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats </summary>
