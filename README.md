@@ -1,7 +1,13 @@
 # Hi! 👋
-**I'm Renan Freitas** - I am 22 years old, and I am a computer programming technician. Welcome to my profile! Here, I can share my skills with the GitHub community, aiming for self-improvement in this programming world.
+**I'm Renan Freitas** - I'm Renan Freitas — I am 23 years old, a computer programming and IT technician, and I’m currently pursuing a Bachelor’s degree in Information Systems at Unisagrado.
+Welcome to my profile! Here, I can share my skills with the GitHub community, aiming for self-improvement and growth in this programming world.
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,grafana,js,ts,cs,bootstrap,mysql,vscode,atom,git,kali,react,nextjs,tailwind,docker)](https://skillicons.dev)<br/>
+### 💼 **Companies I’ve worked for**
+- **Ambev Tech**  
+- **Ambev**
+
+---
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,py,cs,react,nextjs,tailwind,bootstrap,mysql,git,aws,docker,terraform)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats </summary>
