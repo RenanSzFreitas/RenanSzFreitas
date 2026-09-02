@@ -1,5 +1,5 @@
 # Hi! 👋
-**I'm Renan Freitas** - I'm Renan Freitas — I am 24 years old, a computer programming and IT technician, and I’m currently pursuing a Bachelor’s degree in Information Systems at Unisagrado.
+**I'm Renan Freitas** — I am 24 years old, a computer programming and IT technician, and I’m currently pursuing a Bachelor’s degree in Information Systems at Unisagrado.
 Welcome to my profile! Here, I can share my skills with the GitHub community, aiming for self-improvement and growth in this programming world.
 
 ### 💼 **Companies I’ve worked for**
