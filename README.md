@@ -9,11 +9,15 @@ Welcome to my profile! Here, I can share my skills with the GitHub community, ai
 ---
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,py,cs,react,nextjs,tailwind,bootstrap,mysql,git,aws,docker,terraform)](https://skillicons.dev)<br/>
 
+
 <details>
-  <summary>Github Stats </summary>
-  
-  <a href="#"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSzFreitas&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <summary>Github Stats</summary>
+
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RenanSzFreitas&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/Stats-Organization/github-stats-extended)
+
 </details>
+
+
 
 <div> 
   <a href="https://www.linkedin.com/in/renan-s-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
