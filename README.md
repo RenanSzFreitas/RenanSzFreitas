@@ -2,9 +2,6 @@
 **I'm Renan Freitas** — I am 24 years old, a computer programming and IT technician, and I’m currently pursuing a Bachelor’s degree in Computer Science at Unisagrado.
 Welcome to my profile! Here, I can share my skills with the GitHub community, aiming for self-improvement and growth in this programming world.
 
-### 💼 **Companies I’ve worked for**
-- **Ambev Tech**  
-- **Ambev**
 
 ---
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,py,cs,react,nextjs,tailwind,bootstrap,mysql,git,aws,docker,terraform)](https://skillicons.dev)<br/>
